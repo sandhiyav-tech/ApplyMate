@@ -1,5 +1,13 @@
 # 🚀 ApplyMate AI — Intelligent Internship Application Assistant
 
+[![Deploy with Vercel](https://vercel.com/button)](https://applymate-chi.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-sandhiyav--tech%2FApplyMate-blue?logo=github)](https://github.com/sandhiyav-tech/ApplyMate)
+[![Live Production URL](https://img.shields.io/badge/Live%20Demo-applymate--chi.vercel.app-success?logo=vercel)](https://applymate-chi.vercel.app)
+
+**Live Production URL:** [https://applymate-chi.vercel.app](https://applymate-chi.vercel.app)  
+**Alternative Aliases:** [https://applymate-sandhiyav-tech.vercel.app](https://applymate-sandhiyav-tech.vercel.app) • [https://applymate-git-main-sandhiyav-tech.vercel.app](https://applymate-git-main-sandhiyav-tech.vercel.app)  
+**GitHub Repository:** [https://github.com/sandhiyav-tech/ApplyMate](https://github.com/sandhiyav-tech/ApplyMate)
+
 ApplyMate AI is a production-quality, full-stack web application designed to help university and college students land competitive internships. By pairing automated resume extraction with Anthropic Claude 3.5 Sonnet, ApplyMate evaluates student candidate fit, pinpoints exact skill gaps, rewrites resume bullet points with high-impact metrics, generates tailored cover letters (with 1-click `.docx` download), crafts personalized free learning roadmaps, and conducts interactive interview practice with live scoring.
 
 ---
